@@ -1,7 +1,3 @@
-# stepic_web_project
+# stepik_web_project
 
-Hello there !
-
-For learning
-
-https://stepic.org/course/Web-технологии-154
+Assignment from the course  https://stepik.org/course/Web-технологии-154
